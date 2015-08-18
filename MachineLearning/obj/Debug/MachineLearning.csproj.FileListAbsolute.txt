@@ -1,0 +1,7 @@
+C:\Users\r.inazawa.araujo\Desktop\Machine Learning\Projeto\MachineLearning\MachineLearning\bin\Debug\MachineLearning.exe.config
+C:\Users\r.inazawa.araujo\Desktop\Machine Learning\Projeto\MachineLearning\MachineLearning\obj\Debug\MachineLearning.csprojResolveAssemblyReference.cache
+C:\Users\r.inazawa.araujo\Desktop\Machine Learning\Projeto\MachineLearning\MachineLearning\bin\Debug\MachineLearning.exe
+C:\Users\r.inazawa.araujo\Desktop\Machine Learning\Projeto\MachineLearning\MachineLearning\bin\Debug\MachineLearning.pdb
+C:\Users\r.inazawa.araujo\Desktop\Machine Learning\Projeto\MachineLearning\MachineLearning\bin\Debug\encog-core-cs.dll
+C:\Users\r.inazawa.araujo\Desktop\Machine Learning\Projeto\MachineLearning\MachineLearning\obj\Debug\MachineLearning.exe
+C:\Users\r.inazawa.araujo\Desktop\Machine Learning\Projeto\MachineLearning\MachineLearning\obj\Debug\MachineLearning.pdb
